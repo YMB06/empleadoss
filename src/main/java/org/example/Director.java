@@ -16,7 +16,7 @@ public class Director extends Empleados {
         System.out.print("Numero del despacho: ");
         this.numDespacho = entrada.nextInt();
     }
-
+//cambio que me apetece poner aqui para entdes, bro momento
     public void analizarDatos() {
         System.out.println("Estoy analizando muchos datos...");
     }
