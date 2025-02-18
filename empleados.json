@@ -1,0 +1,10 @@
+[
+  {
+    "DNI": "5",
+    "nombre": "5",
+    "email": "5",
+    "salarioBase": 1000.0,
+    "horasExtra": 5,
+    "precioHorasExtra": 10.0
+  }
+]

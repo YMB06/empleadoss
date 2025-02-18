@@ -1,0 +1,20 @@
+[
+  {
+    "DNI": "12134",
+    "nombre": "pepe",
+    "email": "jur",
+    "salarioBase": 1000.0,
+    "horasExtra": 4,
+    "precioHorasExtra": 10.0
+  },
+  {
+    "numDespacho": 3,
+    "plusSalario": 400.0,
+    "DNI": "23456",
+    "nombre": "bob",
+    "email": "fmeimd",
+    "salarioBase": 1000.0,
+    "horasExtra": 5,
+    "precioHorasExtra": 20.0
+  }
+]
