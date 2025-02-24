@@ -18,6 +18,7 @@ public class Empresa {
     private static ArrayList<Contable> LContables = new ArrayList<>();
     private static ArrayList<Director> LDirectores = new ArrayList<>();
 
+    // clase principal
     public static void main(String[] args) {
         int opcion;
         do {
